@@ -5,8 +5,6 @@ public class MinArray {
 		int[] at={22,55,33,22,8,1,45,7};
 		System.out.println(funcMin(at));
 		       
-			   testt
-			   11111
 	}
 	
 	static int funcMin(int[] ar)
